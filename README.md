@@ -1,3 +1,3 @@
 # CodeTheHardWayInC
 
-Based on the site : http://c.learncodethehardway.org/book/
+Based on the site - http://c.learncodethehardway.org/book/
